@@ -1,0 +1,5 @@
+server [169.237.6.102] status checked at Tue Jun  2 12:36:28 2020
+server port 95616, HW_01          status: Down
+server port 95618, HW_02 part1    status: Down
+server port 95837, HW_02 part2    status: Down
+server port 94136, Small Programs status: Down
